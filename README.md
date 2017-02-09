@@ -24,7 +24,7 @@
 npm install
 ```
     
-2. 创建文件夹todo_development（已创建）配置mongodb数据库
+2. 创建文件夹**todo_development**配置mongodb数据库
 ``` stylus
 $ mongod –dbpath D:\todo_development
 ```
@@ -35,4 +35,4 @@ $ mongod –dbpath D:\todo_development
 $ npm start
 ```
 
-也是刚开始学习，很多东西还不会，望各位指教啦。
+具体请参看原书相关章节和步骤，也是刚开始学习，很多东西还不会，望各位指教啦。
