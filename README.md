@@ -26,7 +26,7 @@ npm install
     
 2. 创建文件夹**todo_development**配置mongodb数据库
 ``` stylus
-$ mongod –dbpath D:\todo_development
+$ mongod –dbpath D:\todo_development //文件路径依项目具体存放地址而定
 ```
 
 3. 启动文件
